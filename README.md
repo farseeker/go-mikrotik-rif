@@ -41,7 +41,7 @@ and is not portable (requires Perl, required dependencies, doesn't work on Windo
 Linux:
 
 ```
-./mikrotik-rif-linux.exe /tmp/supout.rif
+./mikrotik-rif-linux /tmp/supout.rif
 ```
 
 Windows:
