@@ -35,3 +35,17 @@ view the entire RIF output at once (e.g. to copy/paste into a diff tool or somet
 - [This old Perl script from the forum](https://pastebin.com/pa30DNfw) - it's been removed from the forum. This is the only
 place I can find it. It's not cross-platform (*nix only), replies on Perl (I couldn't get it to work due to missing dependencies),
 and is not portable (requires Perl, required dependencies, doesn't work on Windows). This script is what this work is based on.
+
+## Example usage
+
+Linux:
+
+```
+./mikrotik-rif-linux.exe /tmp/supout.rif
+```
+
+Windows:
+
+```
+.\mikrotik-rif-windows.exe C:\temp\supout.rif
+```
