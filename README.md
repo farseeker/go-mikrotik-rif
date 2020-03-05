@@ -14,6 +14,7 @@ Download for Linux and Windows can be found on the [Releases tab](https://github
 
 - [v0.1 for Linux](https://github.com/farseeker/go-mikrotik-rif/releases/download/v0.1/mikrotik-rif-linux)
 - [v0.1 for Windows](https://github.com/farseeker/go-mikrotik-rif/releases/download/v0.1/mikrotik-rif-windows.exe)
+- [v0.1 for OSX](https://github.com/farseeker/go-mikrotik-rif/releases/download/v0.1/mikrotik-rif-darwin)
 
 ## Acknowledgements
 
